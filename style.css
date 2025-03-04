@@ -36,7 +36,7 @@ li {
     margin-bottom: 10px;
     padding: 10px;
     border: 2px solid #B0C4DE;
-    background-color: rgba(176, 196, 222, 0.1);
+    background-color: rgba(255, 255, 255, 0.541);
 }
 
 form {
@@ -64,7 +64,7 @@ input, textarea {
 
 button {
     padding: 10px;
-    background-color: #2E8B57;
+    background-color: #0a3330;
     color: #FFFFFF;
     border: none;
     font-family: 'Press Start 2P', 'Courier New', monospace;
