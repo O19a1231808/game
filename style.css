@@ -57,7 +57,7 @@ input, textarea {
     padding: 10px;
     border: 2px solid #B0C4DE;
     border-radius: 0;
-    background-color: #FFFFFF;
+    background-color: ##cbb8d4;
     color: #4682B4;
     font-family: 'Courier New', monospace;
 }
@@ -65,7 +65,7 @@ input, textarea {
 button {
     padding: 10px;
     background-color: #0a3330;
-    color: #FFFFFF;
+    color: #7bc3d4;
     border: none;
     font-family: 'Press Start 2P', 'Courier New', monospace;
     text-transform: uppercase;
@@ -79,7 +79,7 @@ button:hover {
 }
 
 footer {
-    background-color: #F8F8FF;
+    background-color: ##6cacd9;
     text-align: center;
     padding: 10px;
     width: 100%;
@@ -88,7 +88,7 @@ footer {
 }
 
 a {
-    color: #2E8B57;
+    color: ##debfc7;
     text-decoration: none;
 }
 
